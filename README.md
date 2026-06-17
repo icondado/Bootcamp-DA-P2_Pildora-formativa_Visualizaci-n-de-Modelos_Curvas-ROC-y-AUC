@@ -1,7 +1,8 @@
 # 📊 Curvas ROC y AUC — Evaluación de Modelos de Clasificación
 
 Materiales de la sesión sobre **visualización del rendimiento en clasificación binaria**. Aquí encontrarás la presentación teórica, los ejercicios prácticos en Python y el enlace al Kahoot de repaso.
-Autora: Irene Condado Alcantarilla
+
+### Autora: Irene Condado Alcantarilla
 ---
 
 ## 📁 Contenido del repositorio
